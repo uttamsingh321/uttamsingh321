@@ -2,13 +2,15 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=uttamsingh321&label=Profile%20views&color=0e75b6&style=flat)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=uttamsingh321)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=uttamsingh321&theme=onedark&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/uttam-singh-87aa24266/) | [Instagram](https://instagram.com/its_uttam_singh3) | [Twitter](https://twitter.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttam-singh-87aa24266/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/its_uttam_singh3)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 ---
 
