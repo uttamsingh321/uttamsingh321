@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=uttamsingh321&label=Profile%20views&color=0e75b6&style=flat)
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=uttamsingh321&theme=onedark&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=uttamsingh321&theme=onedark&column=6&cache=12345)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -32,11 +32,11 @@
 
 ---
 
-### GitHub Stats (Humans)
+### GitHub Stats (Humans, Cache-Busted)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=uttamsingh321&show_icons=true&locale=en&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uttamsingh321&show_icons=true&locale=en)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=uttamsingh321)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=uttamsingh321&show_icons=true&locale=en&layout=compact&cache=12345)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uttamsingh321&show_icons=true&locale=en&cache=12345)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=uttamsingh321&cache=12345)
 
 **Text Equivalent for ATS:**  
 - Top Languages: JavaScript, HTML, CSS, React, Node.js  
