@@ -41,12 +41,10 @@ I focus on learning modern web technologies and continuously improving my develo
 
 ---
 
-### Projects (Optional Section)
+### Projects
 
-You can add your key projects here, for example:
-
-- **Project 1:** [Project Link](#) – Description of what it does and tech used  
-- **Project 2:** [Project Link](#) – Description of what it does and tech used  
+- **Project 1:** [Joyful Pithivier](https://joyful-pithivier-d460ab.netlify.app/) – A responsive frontend web application showcasing modern UI design and interactivity.  
+- **Project 2:** [Grand Licorice](https://grand-licorice-587bd4.netlify.app/) – A dynamic web project built with React and JavaScript to demonstrate state management and responsive design.
 
 ---
 
