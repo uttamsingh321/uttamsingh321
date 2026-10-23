@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="file:///C:/Users/uttam.singh1/Downloads/hero.svg" alt="Uttam Singh – Full-Stack Developer" width="100%" />
+<img src="https://raw.githubusercontent.com/uttamsingh321/uttamsingh321/main/assets/hero.svg" alt="Uttam Singh – Full-Stack Developer" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=640&lines=%3E+Booting+system...;%3E+Loading+modules%3A+React,+Node,+MongoDB;%3E+Building+the+future,+one+commit+at+a+time;%3E+Welcome+to+my+orbit" alt="Typing SVG" />
