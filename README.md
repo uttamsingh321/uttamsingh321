@@ -1,157 +1,91 @@
- <!-- GitHub Profile README — uttamsingh321 -->
+ <div align="center">
 
-<div align="center">
+<img src="./assets/hero.svg" alt="Uttam Singh – Full-Stack Developer" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050816,50:111827,100:6C63FF&text=UTTAM%20SINGH&fontSize=48&fontColor=00F5FF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20India&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Uttam Singh — Frontend Developer" />
-
-<a href="https://github.com/uttamsingh321">
-  <img src="https://komarev.com/ghpvc/?username=uttamsingh321&label=PROFILE%20VIEWS&color=00F5FF&style=for-the-badge" alt="Profile views" />
-</a>
-<a href="https://github.com/uttamsingh321?tab=repositories">
-  <img src="https://img.shields.io/badge/OPEN%20SOURCE-EXPLORE%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=640&lines=%3E+Booting+system...;%3E+Loading+modules%3A+React,+Node,+MongoDB;%3E+Building+the+future,+one+commit+at+a+time;%3E+Welcome+to+my+orbit" alt="Typing SVG" />
 </a>
 
-### `> Building interfaces. Exploring technology. Improving every day.`
+![Signals](https://komarev.com/ghpvc/?username=uttamsingh321&label=SIGNALS%20RECEIVED&color=00f5ff&style=for-the-badge)
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttam-singh-87aa24266/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/its_uttam_singh3)
-[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttam-singh-87aa24266/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uttamsingh321)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/its_uttam_singh3)
 
 </div>
 
 ---
 
-## `01 // ABOUT ME`
-
-```js
-const uttam = {
-  role: "Frontend Developer",
-  location: "India",
-  focus: ["Responsive UI", "Interactive Web Applications"],
-  frontend: ["HTML5", "CSS3", "JavaScript", "React"],
-  backendBasics: ["Node.js", "MongoDB", "MySQL", "Oracle"],
-  languages: ["C", "C++", "Java"],
-  tools: ["Git", "GitHub"],
-  mindset: "Learn, build, improve, repeat."
-};
-```
-
-I'm a passionate frontend developer from India who enjoys building responsive, interactive, and user-friendly web applications.
-
-I focus on writing clean interfaces, exploring modern web technologies, and continuously improving my development skills.
-
-- ◈ Creating responsive web experiences
-- ◈ Exploring frontend development and JavaScript
-- ◈ Building projects to strengthen practical skills
-- ◈ Learning through experimentation and continuous improvement
-
----
-
-## `02 // TECH STACK`
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js" alt="C, C++, Java, HTML, CSS and JavaScript" />
-
-### Frameworks & Databases
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql" alt="React, Node.js, MongoDB and MySQL" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and Visual Studio Code" />
-
-[![Oracle](https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white)](https://www.oracle.com/)
-
-</div>
-
----
-
-## `03 // FEATURED PROJECTS`
-
-<div align="center">
-
-### ◈ Project 01 — Joyful Pithivier
-
-<a href="https://joyful-pithivier-d460ab.netlify.app/">
-  <img src="https://img.shields.io/badge/LAUNCH%20LIVE%20DEMO-00F5FF?style=for-the-badge&logo=netlify&logoColor=black" alt="Launch Joyful Pithivier" />
-</a>
-
-A responsive frontend web application showcasing modern UI design and interactivity.
-
-**Focus:** Responsive layouts · User interface · Web interactivity
-
----
-
-### ◈ Project 02 — Grand Licorice
-
-<a href="https://grand-licorice-587bd4.netlify.app/">
-  <img src="https://img.shields.io/badge/LAUNCH%20LIVE%20DEMO-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" alt="Launch Grand Licorice" />
-</a>
-
-A dynamic React and JavaScript web project demonstrating state management and responsive design.
-
-**Focus:** React · JavaScript · State management · Responsive design
-
----
-
-### Explore More
-
-<a href="https://github.com/uttamsingh321?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=00F5FF" alt="View all repositories" />
-</a>
-
-</div>
-
----
-
-## `04 // GITHUB ANALYTICS`
-
-<div align="center">
-
-<a href="https://github.com/uttamsingh321">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=uttamsingh321&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=7C3AED&text_color=C9D1D9" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/uttamsingh321">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttamsingh321&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=C9D1D9" alt="Most used programming languages" />
-</a>
-
-<a href="https://github.com/uttamsingh321">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=uttamsingh321&theme=tokyonight&hide_border=true&background=050816&ring=00F5FF&fire=7C3AED&currStreakLabel=00F5FF" alt="GitHub contribution streak" />
-</a>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=uttamsingh321&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=8" alt="GitHub trophies" />
-</a>
-
-</div>
-
----
-
-## `05 // CURRENT FOCUS`
+## `> whoami`
 
 ```text
-[01] Strengthening frontend development skills
-[02] Building responsive and interactive interfaces
-[03] Practicing JavaScript and React
-[04] Exploring backend fundamentals and databases
-[05] Improving through hands-on projects
+┌──────────────────────────────────────────────┐
+│  PILOT      : Uttam Singh                    │
+│  CLASS      : Full-Stack Developer (MERN)    │
+│  BASE       : Noida, Delhi NCR, India        │
+│  MISSION    : Build fast, clean, useful apps │
+│  STATUS     : Open to opportunities  [ONLINE]│
+└──────────────────────────────────────────────┘
 ```
 
 ---
 
-## `06 // A LITTLE EXTRA`
+## `> ls ./tech-stack`
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="320" alt="Developer coding at a computer" />
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### `// Every great project starts with a single line of code.`
+</div>
 
-*Keep learning. Keep building. Keep shipping.* ⚡
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:6C63FF,50:111827,100:050816" width="100%" alt="Decorative neon footer" />
+## `> launch ./missions`
+
+| Mission | Description | Stack |
+|---|---|---|
+| **[CampusERP Lite](https://github.com/uttamsingh321)** | Student management system with a clean dashboard | React · Node · Express · MongoDB |
+| **[NovaCode AI](https://github.com/uttamsingh321)** | AI-based code review platform | React · Node · Express · MongoDB |
+| **[Joyful Pithivier](https://joyful-pithivier-d460ab.netlify.app/)** | Responsive frontend web app with modern UI | HTML · CSS · JS |
+| **[Grand Licorice](https://grand-licorice-587bd4.netlify.app/)** | React app showing state management | React · JavaScript |
+
+---
+
+## `> scan ./stats`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=uttamsingh321&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=bd00ff&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttamsingh321&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" />
+
+<img src="https://streak-stats.demolab.com?user=uttamsingh321&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=bd00ff&currStreakLabel=00f5ff" />
+
+</div>
+
+---
+
+## `> current_objectives`
+
+- Building full-stack MERN projects
+- Learning system design and DSA
+- Seeking an entry-level software role
+
+<div align="center">
+
+*"The future belongs to those who build it."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
 
 </div>
