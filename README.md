@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:111827,70:312e81,100:06b6d4&height=230&section=header&text=UTTAM%20SINGH&fontSize=58&fontColor=67e8f9&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%2F%2F%20INDIA&descSize=16&descAlignY=57&animation=fadeIn" alt="Uttam Singh cyber developer banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:111827,70:312e81,100:06b6d4&height=230&section=header&text=UTTAM%20SINGH&fontSize=58&fontColor=67e8f9&fontAlignY=38&desc=FULLSTACK%20DEVELOPER%20%2F%2F%20INDIA&descSize=16&descAlignY=57&animation=fadeIn" alt="Uttam Singh cyber developer banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=800&color=67E8F9&center=true&vCenter=true&width=650&lines=console.log%28%22Hello%2C+World!%22%29%3B;Building+responsive+web+experiences;Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Turning+ideas+into+interactive+interfaces" alt="Animated developer introduction"/>
 
